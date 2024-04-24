@@ -20,7 +20,7 @@ class WaterIntake(CTk):
         console_handler.setFormatter(formatter)
         logger.addHandler(console_handler)
 
-        file_handler = logging.FileHandler('logfile.log')
+        file_handler = logging.FileHandler(os.path.dirname(__file__).replace(r'Scripts\Base','LogFile.log'))
         file_handler.setFormatter(formatter)
         logger.addHandler(file_handler)
         return logger
