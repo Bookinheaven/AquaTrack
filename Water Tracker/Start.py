@@ -16,6 +16,10 @@ def install_packages():
     ]
 
     installed_packages = subprocess.check_output([sys.executable, "-m", "pip", "list"]).decode("utf-8")
+    try:
+        subprocess.call([sys.executable, "-m", "pip", "install", "--upgrade", "pip"])
+    except Exception as e:
+        print(f"Failed to upgrade pip: {e}")
 
     for package in required_packages:
         if package not in installed_packages:
