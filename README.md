@@ -1,4 +1,4 @@
-# Water Intake for Optimal Hydration
+# AquaTrack
 
 ## 📌 Overview
 The **Water Intake for Optimal Hydration** project is a user-friendly desktop application designed to help individuals effectively manage their daily water consumption. With a **clean and intuitive graphical interface**, users can register, log in, and track their water intake over time, ensuring they stay hydrated throughout the day.
