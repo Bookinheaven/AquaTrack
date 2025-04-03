@@ -34,8 +34,8 @@ Make sure you have the following installed:
 
 ### 2️⃣ Clone the Repository
 ```sh
-git clone https://https://github.com/Bookinheaven/Water-Intake-For-Efficient-Hydration.git
-cd Water-Intake-For-Efficient-Hydration
+git clone https://https://github.com/Bookinheaven/AquaTrack.git
+cd AquaTrack
 cd "Water Tracker"
 ```
 
