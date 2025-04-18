@@ -64,11 +64,11 @@ python Start.py
 ```
 
 ## 🏗️ Optimizations & Improvements
-✅ **Database Optimization:** Uses caching to reduce redundant queries.
-✅ **Optimized Profile Uploads:** Resizes images before saving to avoid large file sizes.
-✅ **Enhanced Error Handling:** Implements logging to track and debug database operations.
-✅ **Improved Graph Updates:** Updates charts only when there is a significant change (>5%).
-✅ **Real-time Theme Switching:** Applies Light/Dark mode changes immediately.
+- ✅ **Database Optimization:** Uses caching to reduce redundant queries.
+- ✅ **Optimized Profile Uploads:** Resizes images before saving to avoid large file sizes.
+- ✅ **Enhanced Error Handling:** Implements logging to track and debug database operations.
+- ✅ **Improved Graph Updates:** Updates charts only when there is a significant change (>5%).
+- ✅ **Real-time Theme Switching:** Applies Light/Dark mode changes immediately.
 
 ## 📷 Screenshots
 ### 🌟 Home Page
